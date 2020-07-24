@@ -17,6 +17,9 @@ public class CustomerDTO {
 		this.name = name;
 	}
 	
-	
+	public void calculateValue(int in) {
+		int curVal = in +10;
+		curVal = curVal+20;
+	}
 
 }
