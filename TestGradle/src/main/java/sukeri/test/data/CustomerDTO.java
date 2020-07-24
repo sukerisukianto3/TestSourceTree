@@ -20,6 +20,8 @@ public class CustomerDTO {
 	public void calculateValue(int in) {
 		int curVal = in +10;
 		curVal = curVal+20*10+40;
+
+
 	}
 
 }
