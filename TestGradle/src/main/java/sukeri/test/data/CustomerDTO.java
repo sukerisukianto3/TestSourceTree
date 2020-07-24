@@ -19,7 +19,7 @@ public class CustomerDTO {
 	
 	public void calculateValue(int in) {
 		int curVal = in +10;
-		curVal = curVal+20*10+40*1+2+3+4+5+6;
+		curVal = curVal+20*10+40*1+2+3+4+5+6+7;
 	}
 
 }
